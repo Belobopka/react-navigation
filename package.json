@@ -35,8 +35,8 @@
     "prop-types": "^15.5.10",
     "react-lifecycles-compat": "^3.0.2",
     "react-native-drawer-layout-polyfill": "^1.3.2",
-    "react-native-safe-area-view": "0.11.0",
-    "react-native-tab-view": "github:react-navigation/react-native-tab-view"
+    "react-native-safe-area-view": "0.14.9",
+    "react-native-tab-view": "git+https://github.com/Belobopka/react-native-tab-view.git#b984c30dc6bd167ec4265816b8f81c7513a6f737"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
